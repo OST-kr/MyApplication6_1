@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="restext">
+        <item>"김치찌개"</item>
+        <item>"오이"</item>
+        <item>"당근"</item>
+    </array>
+</resources>
